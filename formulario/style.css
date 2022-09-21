@@ -1,0 +1,52 @@
+body{
+    font-family: 'Varela Round', sans-serif;
+    background-color: white;
+
+}
+
+.formulario{
+    margin: 0 auto;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.formulario .field-pessoal div{
+    margin-bottom: 10px;
+}
+
+.formulario .field-pessoal div input{
+    height: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.formulario .field-pessoal div select{
+    height: 20px;
+    width: 20vh;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.formulario .field-profissional div{
+    margin-bottom: 10px;
+}
+
+.formulario .field-profissional div textarea{
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.header{
+    text-align: center;
+    background-color: rgb(137, 236, 243);
+    padding: 0.5vh;
+}
+
+.botoes{
+    margin: 0 auto;
+    width: 40%;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

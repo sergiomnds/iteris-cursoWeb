@@ -55,3 +55,8 @@ body {
 .main .form {
     color: #504f51;
 }
+
+.forms label{
+    display: block;
+    margin: 5px;
+}
